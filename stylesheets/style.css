@@ -1,0 +1,37 @@
+
+div{
+	width: 40%;
+	height: 100px;
+	border: 1px solid black;
+	margin: 25px;
+	background-color: #32cd32;
+
+
+}
+
+
+#one {
+
+	margin: auto;
+}
+
+#two{
+	display: inline-block;
+
+}
+
+#three{
+	display: inline-block;
+}
+
+#smaller{
+	position: absolute;
+	width:20px;
+	height: 15px;
+	background-color: blue;
+	position: relative;
+
+	bottom: 42px;
+	left:602px;
+
+}
